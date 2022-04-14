@@ -1,0 +1,27 @@
+
+Variables:-
+
+
+
+Git:-
+   Local --remote repo
+	
+	git init
+	git status
+	
+	git add .
+	git status
+	git remote add origin
+
+	git commit -m"Central Repo source code"(-m == message)
+	git push -u origin master (-u == UpStream)
+	
+	
+
+java program:-
+	
+	To find the odd or even:-
+	check number is postive / negative /zero
+	leap year or not
+	check a character is lower case or upper case
+	
